@@ -1,0 +1,36 @@
+<?php 
+	$title = "Marmitas Dona Rita";
+	$desenvolvedor = "Thiago Freitas Malta";
+
+	$lista = array(
+		0 => array('id'=>'1', 
+            'titulo'=>'MARMITA DA CASA', 
+            'valor'=>20.00,  
+            'descricao'=>'Arroz, feijão, macarrão, bife, frango, porco, batata frita, banana à milanesa, farofa, refogado e salada.',
+            'imagem'=>'img/prod1.jpg', 
+            'title_img'=>'MARMITA DA CASA'),
+		1 => array('id'=>'2', 
+            'titulo'=>'MARMITA LIGHT', 
+            'valor'=>20.00,  
+            'descricao'=>'Arroz Branco ou Integral, Feijão, Filé de Frango Grelhado, Ovo Cozido ou Purê de Batata Doce, Refogado e Salada. ( especificar se é arroz branco ou Integral, Ovo Cozido ou Batata Doce).',
+            'imagem'=>'img/prod2.jpg', 
+            'title_img'=>'MARMITA LIGHT'),
+		2 => array('id'=>'3', 
+            'titulo'=>'MARMITA STROGONOFF DE CARNE', 
+            'valor'=>18.50,  
+            'descricao'=>'Arroz, feijão (opcional) , purê de batata, strogonoff, batata palha e refogado.',
+            'imagem'=>'img/prod3.jpg', 
+            'title_img'=>'MARMITA STROGONOFF DE CARNE'),
+		3 => array('id'=>'4', 
+            'titulo'=>'MARMITA STROGONOFF DE FRANGO', 
+            'valor'=>20.00,  
+            'descricao'=>'Arroz, feijão (opcional) , purê de batata, strogonoff, batata palha e refogado.',
+            'imagem'=>'img/prod4.jpg', 
+            'title_img'=>'MARMITA STROGONOFF DE FRANGO'),
+		4 => array('id'=>'5', 
+            'titulo'=>'MARMITA TRADICIONAL', 
+            'valor'=>18.00,  
+            'descricao'=>'Arroz, feijão, farofa, frango, porco, batata frita, mandioca, refogado e salada.',
+            'imagem'=>'img/prod5.jpg', 
+            'title_img'=>'MARMITA TRADICIONAL'),
+	);
